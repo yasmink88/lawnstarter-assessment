@@ -26,7 +26,7 @@ Visit our [README](../README.md#Setup) for setup instructions.
     - Bonus points: infinite scroll or pagination.
 - [x] Add SCSS compiling in and style your React app.
   - Bonus points: Uglify your JavaScript/SCSS build
-- [ ] Add instructions on requirements, installation and running everything to your README file.
+- [x] Add instructions on requirements, installation and running everything to your README file.
 - [ ] Bonus point: Create a plugin that will add a simple "PRESS ME" CTA to all "Movie" Posts. 
 
 
