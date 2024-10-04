@@ -16,6 +16,7 @@ Please follow the steps below and turn it in to us when you are done!
 3. Run `npm run env:init`
 4. Run `npm run env:launch`
 5. Import database backup.sql
+6. Update permalinks in WordPress to Post Name
 
 **Away We Go!**
 
