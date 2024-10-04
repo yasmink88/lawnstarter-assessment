@@ -15,7 +15,7 @@ Please follow the steps below and turn it in to us when you are done!
 2. Run `npm install`
 3. Run `npm run env:init`
 4. Run `npm run env:launch`
-5 Import database backup
+5. Import database backup.sql
 
 **Away We Go!**
 
